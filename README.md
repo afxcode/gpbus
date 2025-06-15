@@ -65,7 +65,7 @@ Or Start with config file in different location
 ``` 
 
 ---
-🙏 Credits
+## 🙏 Credits
 - GPIO handling powered by [periph.io]() — excellent hardware library for Go
 
 - Modbus server functionality inspired by and based on [github.com/tbrandon/mbserver]() — a robust Modbus TCP/RTU server implementation in Go
